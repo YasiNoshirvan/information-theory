@@ -36,37 +36,3 @@ The main topics covered are:
 | **Assignment 3** | Rate-distortion theory, scalar quantization, 2D distortion analysis | MATLAB |
 | **Assignment 4** | Stream ciphers, M-sequences, LFSR, SNOW 3G, Signal protocol, TLS | MATLAB / Research report |
 
----
-
-## 📁 Suggested Repository Structure
-
-```text
-information-theory-assignments/
-│
-├── Assignment_1/
-│   ├── report.pdf
-│   ├── IT_1_2.m
-│   ├── IT_1_3.m
-│   └── IT_1_5.m
-│
-├── Assignment_2/
-│   ├── report.pdf
-│   ├── IT_2.m
-│   ├── IT_3.m
-│   ├── IT_4.m
-│   ├── huffman.txt
-│   ├── encoded_data.bin
-│   └── warandpeace.txt
-│
-├── Assignment_3/
-│   ├── assignment3.pdf
-│   ├── IT_1.m
-│   ├── IT_2.m
-│   └── IT_3.m
-│
-├── Assignment_4/
-│   ├── project_4.pdf
-│   ├── ex4_1.m
-│   └── ex4_2.m
-│
-└── README.md
