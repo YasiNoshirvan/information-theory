@@ -1,0 +1,72 @@
+# Information Theory for Data Science — Assignments
+
+This repository contains four assignments completed for the **Information Theory for Data Science** course as part of the Data Science and Engineering program at Politecnico di Torino.
+
+The projects combine theoretical analysis and practical implementations in **MATLAB** and **Python**, covering key topics in information theory, source coding, rate-distortion theory, and cryptography.
+
+---
+
+## 📌 Repository Overview
+
+The repository includes reports, scripts, and supporting files for four course assignments.
+
+The main topics covered are:
+
+- Entropy and uncertainty measures
+- Shannon entropy and Rényi entropy
+- Maximum entropy principle
+- Permutation entropy for anomaly detection
+- Kullback-Leibler divergence
+- Information gain and decision trees
+- Huffman coding and source compression
+- Entropy of discrete and continuous distributions
+- Rate-distortion analysis
+- Quantization in one and two dimensions
+- Stream ciphers and LFSR-based sequences
+- Signal protocol, TLS, and cryptographic key exchange
+
+---
+
+## 🧪 Assignments
+
+| Assignment | Main Topics | Tools |
+|---|---|---|
+| **Assignment 1** | Entropy, Rényi entropy, maximum entropy, permutation entropy, KL divergence, information gain | MATLAB |
+| **Assignment 2** | Entropy of probability distributions, differential entropy, Huffman coding, text compression | MATLAB / Python |
+| **Assignment 3** | Rate-distortion theory, scalar quantization, 2D distortion analysis | MATLAB |
+| **Assignment 4** | Stream ciphers, M-sequences, LFSR, SNOW 3G, Signal protocol, TLS | MATLAB / Research report |
+
+---
+
+## 📁 Suggested Repository Structure
+
+```text
+information-theory-assignments/
+│
+├── Assignment_1/
+│   ├── report.pdf
+│   ├── IT_1_2.m
+│   ├── IT_1_3.m
+│   └── IT_1_5.m
+│
+├── Assignment_2/
+│   ├── report.pdf
+│   ├── IT_2.m
+│   ├── IT_3.m
+│   ├── IT_4.m
+│   ├── huffman.txt
+│   ├── encoded_data.bin
+│   └── warandpeace.txt
+│
+├── Assignment_3/
+│   ├── assignment3.pdf
+│   ├── IT_1.m
+│   ├── IT_2.m
+│   └── IT_3.m
+│
+├── Assignment_4/
+│   ├── project_4.pdf
+│   ├── ex4_1.m
+│   └── ex4_2.m
+│
+└── README.md
